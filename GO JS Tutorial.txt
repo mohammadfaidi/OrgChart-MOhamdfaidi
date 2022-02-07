@@ -1,0 +1,23 @@
+https://gojs.net/latest/download.html
+
+https://codepen.io/kokanek/pen/abwNNoq
+
+https://medium.com/edonec/how-to-build-a-simple-application-with-gojs-diagramming-library-5692a66103c4
+
+https://blog.logrocket.com/building-flowcharts-gojs/
+
+https://developer.mozilla.org/en-US/docs/Glossary/CDN
+
+https://gojs.net/latest/learn/
+
+https://www.youtube.com/user/gojshtml5canvas
+
+https://github.dev/esmaele/orgchart
+
+
+
+
+https://gojs.net/latest/intro/nodes.html
+
+
+code pen
